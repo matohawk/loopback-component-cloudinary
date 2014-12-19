@@ -1,0 +1,13 @@
+{
+  "name": "loopback-component-cloudinary",
+  "version": "0.0.1",
+  "description": "Connect Loopback with Cloudinary",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Maciej Chmielarski <hello@evenemento.co> (http://evenemento.co/)",
+  "license": "MIT",
+  "dependencies": {
+    "busboy": "^0.2.9",
+    "cloudinary": "^1.1.0"
+  }
+}
