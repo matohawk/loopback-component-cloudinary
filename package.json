@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "busboy": "^0.2.9",
-    "cloudinary": "^1.1.0"
+    "cloudinary": "^1.1.0",
+    "nemento-promisify": "git://github.com/evenemento/nemento-promisify"
   }
 }
