@@ -1,6 +1,6 @@
 {
   "name": "loopback-component-cloudinary",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connect Loopback with Cloudinary",
   "main": "index.js",
   "scripts": {},
@@ -9,6 +9,6 @@
   "dependencies": {
     "busboy": "^0.2.9",
     "cloudinary": "^1.1.0",
-    "loopback-promisify": "git://github.com/evenemento/loopback-promisify"
+    "loopback-promisify": "^0.2.0"
   }
 }
