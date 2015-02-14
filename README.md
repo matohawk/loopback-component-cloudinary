@@ -38,3 +38,7 @@ Connect Loopback with Cloudinary.
     ```
 
 5. Use!!!
+
+    ```
+    FileCloudinary.upload(req, res, options)
+    ```
