@@ -29,5 +29,4 @@ Connect Loopback with Cloudinary.
         "public": true
     }
 
-5. Use
-
+5. Use!!!
