@@ -1,6 +1,8 @@
 loopback-component-cloudinary
 ==============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tradeninja/loopback-component-cloudinary.svg)](https://greenkeeper.io/)
+
 Connect Loopback with Cloudinary.
 
 1. Install component
